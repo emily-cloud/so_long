@@ -13,11 +13,12 @@
 - **Basic enemy AI** (Bonus)
 - **Animations** for player and enemies (Bonus)
 
-## So long 2d game Screenshot
+## So long 2D game Real case screenshot
 <p align="center">
   <img src="https://github.com/emily-cloud/so_long/blob/main/so_long%20screenshot/Weixin%20Image_20260121151636_56_2.jpg" 
        alt="so_long" width="75%">
 </p>
+The shot captures the opening state as the player spawns inside the maze, highlighting the surrounding walls, visible collectibles, and the nearby exit that sets the objective for the run.
 
 ## Installation
 
